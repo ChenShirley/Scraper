@@ -1,0 +1,15 @@
+<center>
+<p class="notice" style="color: red; text-align:center;"><%= flash[:notice] %></p>
+<h2> Search Apps and Scrape App Details</h2>
+If you want to search by random words, please leave the "Keyword" field blank. </br>
+The upper limit for scraping is 30. </br>
+<%= form_tag "/appsearch", :method=>:post do %>
+  <%= label :keyword, 'Keyword：' %>
+	<%= text_field_tag :keyword, nil, :autocomplete=>"off", :placeholder=>"search for an app" %>
+	</br>
+  <%= label :number, 'Amount：' %>
+	<%= text_field_tag :number, nil, :autocomplete=>"off", :placeholder=>"how many apps you want" %>
+	</br>
+	<%= submit_tag 'search' %>
+<% end %>
+</center>

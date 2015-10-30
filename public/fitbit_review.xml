@@ -1,0 +1,1768 @@
+<body class="customize-bs fix-for-bs lang-noop lang-en section-storestats  body-page-app-reviews  no-touch">
+
+
+<div id="container" class="">
+<!--[if lt IE 10]>
+<div id="no_old_ie">
+    <h3>Your browser is out of date.</h3>
+    <p>For a smoother, more secure browsing experience, please upgrade to one of the browsers below:</p>
+    <div id="browser_upgrade">
+        <a href="http://www.google.com/chrome" title="Google Chrome"><img src="https://static-s.aa-cdn.net/media/pictures/browser/chrome.v-8f9bd35a.jpg" alt="Google Chrome" /></a>
+        <a href="http://www.mozilla.org/" title="Mozilla Firefox"><img src="https://static-s.aa-cdn.net/media/pictures/browser/firefox.v-fd4ea3bb.jpg" alt="Mozilla Firefox" /></a>
+        <a href="http://windows.microsoft.com/en-hk/internet-explorer/ie-11-worldwide-languages" title="Internet Explorer 11"><img src="https://static-s.aa-cdn.net/media/pictures/browser/ie11.v-fb7889f9.jpg" alt="Internet Explorer 11" /></a>
+    </div>
+</div>
+<![endif]-->
+    
+
+    
+<div class="header-v2-old">
+    <div class="header-v2-old-main-nav-wrap">
+        <div class="inner">
+            <div class="brand pull-left">
+                <a class="navbar-brand pull-left" href="/">
+                    <img src="https://static-s.aa-cdn.net/media/pictures/appannie-logo.v-64ae5eec.png" alt="App Annie">
+                </a>
+            </div>
+
+            <ul class="main-nav prod-main-nav pull-left" id="J-main-nav">
+                <li class="nav-item">
+                    <a href="#subnav-market-data" onclick="return false;" class="aa-nav-toggle">Market Data</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#subnav-analytics" onclick="return false;" class="aa-nav-toggle">Analytics</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/indexes/all-stores/report/" class="aa-nav-link">Insights</a>
+                </li>
+            </ul>
+
+            <div class="pull-right right-nav">
+                
+                <ul class="main-nav mkt-main-nav pull-left" id="J-main-nav-r">
+                    <li class="nav-item">
+                        <a href="#subnav-tours" onclick="return false;" class="aa-nav-toggle">Tours</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/pricing/" class="aa-nav-link">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#subnav-about" onclick="return false;" class="aa-nav-toggle">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="http://blog.appannie.com/" class="aa-nav-link">Blog</a>
+                    </li>
+                    <li class="nav-item hide">
+                        <a target="_blank" href="http://support.appannie.com" class="aa-nav-link">Support</a>
+                    </li>
+                </ul>
+                
+
+                <div class="search-box-wrap pull-left">
+                    <form action="/search/" name="search">
+                    <ul class="search-box">
+                        <li class="dropdown selector">
+                            <span class="dropdown-toggle" role="button" data-toggle="dropdown"><span data-value="apps">Apps</span><i class="fa fa-chevron-up icon-chevron-up"></i><i class="fa fa-chevron-down icon-chevron-down"></i></span>
+                            <ul class="dropdown-menu" role="menu">
+                                <li role="presentation" data-placeholder="" data-value="" data-vertical="" data-market="" data-label="">
+                                    <a role="menuitem" href="#">
+                                        
+                                        <i class="icon-aa-check"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                            <input type="hidden" name="vertical" value="apps">
+                        </li>
+                        <li>
+                            <input name="q" class="search-box-input" placeholder="App or Publisher" value="">
+                        </li>
+                        <li class="search-icon"><i class="icon-search fa fa-search"></i></li>
+                    </ul>
+                    </form>
+                </div>
+
+                <ul class="user-nav pull-left pull-left-space">
+
+                    <li class="nav-item dropdown nav-item-user-prefs">
+                        <a href="#" class="aa-user-prefs-toggle dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                            <span class="user-display-name">Shirley Chen</span>
+                            <span class="user-email">shirley7483@gmail.com</span>
+                            <i class="fa fa-chevron-up icon-chevron-up"></i><i class="fa fa-chevron-down icon-chevron-down"></i>
+                        </a>
+                        <ul class="dropdown-menu pull-right" role="menu">
+                            
+
+    <li class="head head-for-analytics"><i class="icon-aa-bullet-filled"></i>
+        Analytics &amp; Advertising
+    </li>
+    
+        <li><a href="/account/list/">Connections</a></li>
+    
+        <li><a href="/account/apps/">Apps</a></li>
+    
+        <li><a href="/account/sharing/">Sharing</a></li>
+    
+        <li><a href="/account/export/">Backup Data</a></li>
+    
+
+    <li class="head head-for-account"><i class="icon-aa-bullet-filled"></i>
+        App Annie Account
+    </li>
+    
+        <li><a href="/account/teams/">Teams</a></li>
+    
+        <li><a href="/account/settings/">User Settings</a></li>
+    
+        <li><a href="/account/api/key/">API Key</a></li>
+    
+
+
+                            <li class="spacer"></li>
+                            <li class="support"><a target="_blank" href="http://support.appannie.com">Support</a></li>
+                            <li class="logout"><a href="/account/logout/">Log Out</a></li>
+                        </ul>
+                    </li>
+                    
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-v2-old-sub-nav-wrap"><div class="header-v2-old-sub-nav-inner">
+        <div id="subnav-analytics" class="sub-nav-drawer aa-nav-out">
+            <div class="inner" style="display: none; top: 45px;">
+                <ul class="sub-nav-item">
+                    <li class="">
+                        <a href="/comparator/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            App Analytics</a>
+                    </li>
+                </ul>
+                <ul class="sub-nav-item">
+                    <li class="">
+                        <a href="/ad_dashboard/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Advertising Analytics</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="subnav-market-data" class="sub-nav-drawer aa-nav-out">
+            <div class="inner" style="display: none; top: 45px;">
+                <ul class="sub-nav-item nav-for-analytics">
+                    <li class="">
+                        <a href="/top/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Store Stats</a>
+                    </li>
+                </ul>
+                <ul class="sub-nav-item nav-for-analytics">
+                    <li class="">
+                        <a href="/indexes/all-stores/rank/overall/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Index</a>
+                    </li>
+                </ul>
+                <ul class="sub-nav-item sub-nav-item-sep nav-for-analytics">
+                    <li class="">
+                        <a href="/ssp_dashboard/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Store Stats Pro
+                        </a>
+                        <span class="sub-nav-item-label">FROM $59</span>
+                    </li>
+                </ul>
+                
+                <ul class="sub-nav-item sub-nav-item-sep nav-for-market-data">
+                    <li class="">
+                        <a href="/intelligence/dashboard/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Store Intelligence
+                        </a>
+                        <span class="sub-nav-item-label">PREMIUM</span>
+                    </li>
+                </ul>
+                <ul class="sub-nav-item nav-for-market-data">
+                    <li class="">
+                        <a href="/intelligence/dashboard/usage/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Usage Intelligence
+                        </a>
+                    </li>
+                </ul>
+                <ul class="sub-nav-item nav-for-market-data">
+                    <li class="">
+                        <a href="/intelligence/audience/top/">
+                            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+                            Audience Intelligence
+                        </a>
+                     </li>
+                 </ul>
+            </div>
+        </div>
+        
+        <div id="subnav-tours" class="sub-nav-drawer aa-nav-out">
+            <div class="inner" style="display: none; top: 45px;">
+                
+<ul class="sub-nav-item nav-for-analytics">
+    <li class=" as-header">
+        <a href="/tours/market-data/">
+            
+            Market Data
+        </a>
+    </li><li class="">
+        <a href="/tours/store-stats/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Store Stats
+        </a>
+    </li><li class="">
+        <a href="/tours/store-stats-pro/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Store Stats Pro
+            <i class="nav-special-dot">FROM $59</i>
+        </a>
+    </li><li class="">
+        <a href="/tours/aso/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            ASO
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item nav-for-market-data">
+    <li class=" as-header">
+        <a href="/tours/enterprise-market-data/">
+            
+            Enterprise Market Data
+            <i class="nav-special-dot">PREMIUM</i>
+        </a>
+    </li><li class="">
+        <a href="/tours/store-intelligence/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Store Intelligence
+        </a>
+    </li><li class="">
+        <a href="/tours/usage-intelligence/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Usage Intelligence
+        </a>
+    </li><li class="">
+        <a href="/tours/audience-intelligence/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Audience Intelligence
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item nav-for-analytics">
+    <li class=" as-header">
+        <a href="/tours/app-analytics-platform/">
+            
+            App Analytics Platform
+        </a>
+    </li><li class="">
+        <a href="/tours/app-store-analytics/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            App Store Analytics
+        </a>
+    </li><li class="">
+        <a href="/tours/advertising-analytics/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Advertising Analytics
+        </a>
+    </li><li class="">
+        <a href="/tours/in-app-analytics/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            In-App Analytics
+            <i class="nav-special-dot">BETA</i>
+        </a>
+    </li>
+</ul>
+
+
+            </div>
+        </div>
+        <div id="subnav-about" class="sub-nav-drawer aa-nav-out">
+            <div class="inner" style="display: none; top: 45px;">
+                
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            About
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/leadership/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Leadership
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/jobs/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Jobs
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/customers/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Customers
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/partnerships/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Partnerships
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/press/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Press
+        </a>
+    </li>
+</ul>
+
+<ul class="sub-nav-item">
+    <li class="">
+        <a href="/about/contact/">
+            <span class="sub-nav-list-item-marker"> <i class="icon-aa-bullet-filled"></i> <i class="icon-aa-bullet"></i> </span>
+            Contact
+        </a>
+    </li>
+</ul>
+
+
+            </div>
+        </div>
+        
+    </div></div>
+</div>
+
+<script>
+
+(function(){var mainNav=document.getElementById("J-main-nav");if(mainNav){proc(mainNav)}mainNav=document.getElementById("J-main-nav-r");if(mainNav){proc(mainNav)}function proc(mainNav){var navItems=mainNav.getElementsByTagName("li");var currentNavItem;var hasClass=function(element,className){var classNames=element.className.split(/\s+/);for(var i=0;i<classNames.length;i++){if(className===classNames[i]){return true}}return false};for(var i=0,len=navItems.length;i<len;i++){var nav=navItems[i];if(hasClass(nav,"current")){currentNavItem=nav}}if(!currentNavItem){return}var currentNavLink=currentNavItem.getElementsByTagName("a")[0];if(!hasClass(currentNavLink,"aa-nav-toggle")){return}currentNavItem.className+=" active";var targetSubNavId=currentNavLink.href.split("#")[1];var targetSubNav=document.getElementById(targetSubNavId);if(!targetSubNav){return}var inner=targetSubNav.getElementsByTagName("div")[0];var wrapper=targetSubNav.parentElement.parentElement;targetSubNav.className+=" aa-nav-in";targetSubNav.style.display="block";inner.style.top="0";inner.style.display="block";wrapper.style.minHeight=inner.offsetHeight+"px"}})();
+
+</script>
+
+  
+
+    <div class="main storestats_wrapper page_app-reviews">
+    
+    <div class="inner" itemscope="" itemtype="http://schema.org/MobileSoftwareApplication">
+      <!-- AddThis Button BEGIN -->
+      <div class="aa-widget-addthis">
+        <div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+          <a class="addthis_button_facebook addthis_button_preferred_1 at300b" title="Facebook" href="#"><span class="at4-icon-left at4-icon aticon-facebook" style="background-color: rgb(48, 88, 145);"><span class="at_a11y">Share on facebook</span></span></a>
+          <a class="addthis_button_friendster addthis_button_preferred_2"></a>
+          <a class="addthis_button_google addthis_button_preferred_3 at300b" target="_blank" title="Google" href="#"><span class="at4-icon-left at4-icon aticon-google" style="background-color: rgb(255, 255, 255);"><span class="at_a11y">Share on google</span></span></a>
+          <a class="addthis_button_digg addthis_button_preferred_4 at300b" target="_blank" title="Digg" href="#"><span class="at4-icon-left at4-icon aticon-digg" style="background-color: rgb(8, 8, 8);"><span class="at_a11y">Share on digg</span></span></a>
+          <a class="addthis_button_compact at300m" href="#"><span class="at4-icon-left at4-icon aticon-compact" style="background-color: rgb(252, 109, 76);"><span class="at_a11y">More Sharing Services</span></span></a>
+        <div class="atclear"></div></div>
+      </div>
+      <!-- AddThis Button END -->
+      
+
+<script>
+    var pageVal = pageVal || {};
+    pageVal.app_show_mode = 'public'; 
+    pageVal.app_market = 'itc';
+    pageVal.market_langid = '';
+    pageVal.app_device = ''; 
+</script>
+
+<!-- app picker -->
+<!--  -->
+<!-- app picker end -->
+<div class="frame frame-app">
+    <div class="aa-sidebar aa-sidebar-large">
+        <div class="sidebar-inner" style="position: relative; top: 1056px; transition-duration: 0.14s; transition-timing-function: ease-out; transition-property: none;">
+            
+            <span itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+                <span itemprop="price" content=""></span>
+                <span itemprop="seller" itemscope="" itemtype="http://schema.org/Organization">
+                  <span itemprop="name" content="iOS Store"></span>
+                </span>
+            </span>
+            <span itemscope="" itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating">
+                <span itemprop="ratingValue" content=""></span>
+                <span itemprop="ratingCount" content=""></span>
+            </span>
+            
+            <div class="app_name entity-profile">
+                <div class="entity-icon">
+                    <img itemprop="image" class="itc" src="https://static-s.aa-cdn.net/img/ios/462638897/f32b34f7407291bae46cd1a2f8547347" alt="Fitbit - iOS Store App Ranking and App Store Stats">
+                </div>
+                <div class="entity-name" itemprop="name">Fitbit</div>
+            </div>
+            
+<ul class="menu" data-category="analytics">
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/" target="">
+            
+            
+            <i class="icon-info-sign fa fa-info-circle"></i><span>App Details</span>
+            
+            
+            
+        </a>
+    </li>
+    
+</ul>
+
+<ul class="menu" data-category="intelligence">
+    
+    <li class="">
+        
+            <i class="ui-icon prem-small"></i>
+        
+        <a href="/apps/ios/app/fitbit/intelligence/" target="">
+            
+            
+            <i class="aaicon-store"></i><span>Store<br>Intelligence</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/usage/" target="">
+            
+            
+            <i class="aaicon-usage"></i><span>Usage<br>Intelligence</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/audience/" target="">
+            
+            
+            <i class="icon-male fa fa-male"></i><span>Audience<br>Intelligence</span>
+            
+            
+            
+        </a>
+    </li>
+    
+</ul>
+
+<ul class="menu" data-category="rank">
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/ssp/" target="">
+            
+            
+            <i class="aaicon-sspro_icon"></i><span>Store Stats Pro</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/app-ranking/" target="">
+            
+            
+            <i class="icon-calendar fa fa-calendar"></i><span>Daily Ranks</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/rank-history/" target="">
+            
+            
+            <i class="icon-arrow-up fa fa-arrow-up"></i><span>Rank History</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/keywords/" target="">
+            
+            
+            <i class="aaicon-keywords"></i><span>Keywords / ASO</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/features/" target="">
+            
+            
+            <i class="aaicon-featured"></i><span>Featured</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="">
+        
+        <a href="/apps/ios/app/fitbit/ratings/" target="">
+            
+            
+            <i class="icon-star-half"></i><i class="icon-star-empty"></i><i class="fa fa-star-half-o"></i><span>Ratings</span>
+            
+            
+            
+        </a>
+    </li>
+    
+    <li class="current">
+        
+        <a href="/apps/ios/app/fitbit/reviews/" target="">
+            
+            
+            <i class="icon-comments fa fa-comments"></i><span>Reviews</span>
+            
+            
+            
+        </a>
+    </li>
+    
+</ul>
+
+
+
+            <img class="sidebar-logo" src="https://static-s.aa-cdn.net/media/pictures/logo/sidebar_stencil.v-6b37ae6b.png" alt="AppAnnie.com" width="141" height="97">
+        </div>
+    </div>
+
+    <div class="content content-app app-reviews">
+        <div class=" content-container aa-popup-container">
+            
+
+            
+
+<div class="app-info-top aa-info-columns aa-info-columns-app">
+    
+    <div class="name">
+        <h2 class="asset-name" js-expandable="">Fitbit</h2><label class="asset-type">[App]</label>
+        
+<div class="aa-sharing-link">
+
+
+</div>
+
+    </div>
+    <div class="row-control-group clearfix summary-container">
+    <div class="left-align-controls summary">
+    
+        
+
+<div class="summary-item">
+    <label>Store</label>
+    <div class="value">
+
+    
+
+
+    
+    
+        <a class="summary-item-text" title="iOS Store" href="https://itunes.apple.com/app/id462638897" target="_blank">iOS Store</a>
+        <i class="fa fa-external-link"></i>
+        
+    
+    
+
+
+    
+
+
+    
+
+    </div>
+</div>
+
+    
+        
+
+<div class="summary-item">
+    <label>Price</label>
+    <div class="value">
+
+    
+    Free
+    
+
+
+    
+
+
+    
+
+
+    
+
+    </div>
+</div>
+
+    
+        
+
+<div class="summary-item">
+    <label>Compatibility</label>
+    <div class="value">
+
+    
+    Universal
+    
+
+
+    
+
+
+    
+
+
+    
+
+    </div>
+</div>
+
+    
+        
+
+<div class="summary-item">
+    <label>Publisher</label>
+    <div class="value">
+
+    
+
+
+    
+    
+        <a class="summary-item-text" title="Fitbit, Inc." href="/apps/ios/publisher/fitbit-inc./">Fitbit, Inc.</a>
+        
+        
+    
+    
+
+
+    
+
+
+    
+
+    </div>
+</div>
+
+    
+        
+
+<div class="summary-item">
+    <label data-helptip="A consistent name for grouping an app's different versions within and across stores. The data is maintained by and is property of App Annie.">Unified App</label>
+    <div class="value">
+
+    
+
+
+    
+
+
+    
+
+
+    
+        
+        <a class="summary-item-link" href="/apps/all-stores/app/fitbit/">
+            <span class="summary-item-text" title="Fitbit">Fitbit</span><span> (2 apps)</span>
+        </a>
+        
+        <div class="btn btn-mini click-to-show" data-type="app"><i class="fa fa-caret-down"></i></div>
+        
+        
+    
+
+    </div>
+</div>
+
+    
+        
+
+<div class="summary-item">
+    <label data-helptip="A collection of apps sharing the same intellectual property, similar to movie franchise. The data is maintained by and is property of App Annie.">App Franchise</label>
+    <div class="value">
+
+    
+
+
+    
+
+
+    
+
+
+    
+        
+        <label data-helptip="Data is not yet available">N/A</label>
+        
+    
+
+    </div>
+</div>
+
+    
+    </div>
+
+    <div class="right-align-controls">
+    
+    </div>
+</div>
+
+    
+    
+</div>
+
+            <div class="main-app-content">
+            
+
+            
+
+    <div id="aa-app" ng-controller="AppReviewsCtrl" class="ng-scope">
+        <!-- ngInclude: maintpl --><div ng-include="maintpl" class="ng-scope"><div class="aa-dashboard-container ng-scope">
+    <div class="dashboard-meta">
+        <h1 class="dashboard-header">
+            Reviews
+            <a ga-tracking="" data-ga-category="StoreStats" data-ga-action="ClickAboutThisReport" data-ga-label="OnReviews" href="http://support.appannie.com/entries/49761574-How-to-use-the-Reviews-Ratings-Report-" target="_blank">About this report</a>
+        </h1>
+        <div class="filter-container clearfix">
+            <div ng-show="market !== 'kindle-store'" class="filter-item ng-isolate-scope" control-filter="list-picker" data-title="Versions" data-icon="fa fa-code-fork" aa-filter="filter.version"><a class="current">All Versions</a><a class="more"><i class="fa fa-caret-down"></i></a><a class="title"><span class="fa fa-code-fork"></span><span class="filter-name">Versions</span></a></div>
+            <div ng-show="market !== 'google-play'" class="filter-item ng-isolate-scope" control-filter="tab-picker" data-title="Country" data-icon="fa fa-globe" aa-filter="filter.country"><a class="current">United States</a><a class="more"><i class="fa fa-caret-down"></i></a><a class="title"><span class="fa fa-globe"></span><span class="filter-name">Country</span></a></div>
+            <div ng-show="market === 'google-play'" class="filter-item item-languages ng-isolate-scope ng-hide" control-filter="list-picker" data-title="Languages" data-icon="fa fa-globe" aa-filter="filter.language"></div>
+            <div class="filter-item ng-isolate-scope" control-filter="list-picker" data-title="Rating" data-icon="fa fa-star-half-empty" aa-filter="filter.rating"><a class="current">All Ratings</a><a class="more"><i class="fa fa-caret-down"></i></a><a class="title"><span class="fa fa-star-half-empty"></span><span class="filter-name">Rating</span></a></div>
+            <div class="filter-item date pull-right ng-isolate-scope" control-filter="date_range_picker" data-title="Date Range" data-icon="fa fa-calendar" aa-filter="filter.date"><a class="current"><span class="start_date">Sep 27, 2015</span> ~ <span class="end_date">Oct 27, 2015</span></a><a class="more"><i class=" fa fa-caret-down"></i></a><a class="title"><span class="fa fa-calendar"></span><span class="filter-name">Date Range</span></a></div>
+        </div>
+        <div class="dashboard-meta-sub">
+            <h3 aa-bind-html="resultTitle" class="dashboard-sub-header ng-binding">All Versions - United States - All Ratings - Sep 27, 2015 ~ Oct 27, 2015</h3>
+        </div>
+    </div>
+    <!-- ngIf: !anonymous --><div ng-if="!anonymous" class="dashboard-view-container ng-scope">
+        <div class="chart-container ng-scope" ng-controller="AppReviewsChartCtrl">
+            <div aa-loading="status === 'loading'" class="ng-isolate-scope"><!-- ngIf: loading() --></div>
+            <div ng-show="status === 'fail'" class="ng-hide">
+                Failed to load chart data
+            </div>
+            <div ng-show="status !== 'loading' &amp;&amp; status != 'fail'" class="">
+                <div class="left-chart-container">
+                    <div class="row-control-group clearfix aa-chart-options">
+                        <div class="center-align-controls">
+                            <ul>
+                                <li> <a class="option current">Number of Reviews</a> </li>
+                            </ul>
+                        </div>
+
+                        <div class="right-align-controls">
+                            <span class="btn-group">
+                                <!-- ngRepeat: item in granularities --><a class="btn btn-mini ng-scope ng-binding" ng-repeat="item in granularities" ng-class="{active: meta.granularity === item.key}" ng-click="meta.granularity = item.key">Day</a><!-- end ngRepeat: item in granularities --><a class="btn btn-mini ng-scope ng-binding active" ng-repeat="item in granularities" ng-class="{active: meta.granularity === item.key}" ng-click="meta.granularity = item.key">Week</a><!-- end ngRepeat: item in granularities --><a class="btn btn-mini ng-scope ng-binding" ng-repeat="item in granularities" ng-class="{active: meta.granularity === item.key}" ng-click="meta.granularity = item.key">Month</a><!-- end ngRepeat: item in granularities --><a class="btn btn-mini ng-scope ng-binding" ng-repeat="item in granularities" ng-class="{active: meta.granularity === item.key}" ng-click="meta.granularity = item.key">Year</a><!-- end ngRepeat: item in granularities -->
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="aa-line-sep-a"></div>
+
+                    <div aa-loading="granularity_status === 'loading'" class="ng-isolate-scope"><!-- ngIf: loading() --></div>
+                    <div ng-show="granularity_status === 'fail'" class="ng-hide">
+                        Failed to load chart data
+                    </div>
+
+                    <div app-reviews-chart="" data="data" ng-show="granularity_status !== 'loading' &amp;&amp; granularity_status != 'fail'" class=""><div class="chart-main"><div class="aa-chart-toolbar"><span class="chart-zoomer"><span class="chart-btn reset-btn"><span class="btn btn-mini disabled" title="Reset"><i class="fa fa-undo"></i></span></span><span class="chart-btn zoom-btn dropdown-editor"><span class="dropdown-editor-btn"><span class="btn btn-mini" title="Scale"><i class="fa fa-search-plus"></i></span></span><div class="dropdown-editor-bd"><div class="panel-title"><i class="fa fa-search-plus"></i><span class="beside-icon-even-close">Scale</span></div><table class="chart-zoomer-panel"><tbody><tr><th>Max</th><td><input type="text" name="max"></td></tr><tr><th>Min</th><td><input type="text" name="min"></td></tr><tr><th></th><td><button class="set-scale" type="button">Set</button></td></tr></tbody></table></div></span></span><span class="aa-chart-switch ng-scope">
+<!-- ngIf: type.custom -->
+<!-- ngIf: stack.custom --><span ng-if="stack.custom" class="ng-scope"><span class="chart-series-switch" aa-checkbox="stack.value" on-checkbox-change="clickStack()"><i class="ui-icon tcheckbox checkall"></i> <label>Stack</label></span></span><!-- end ngIf: stack.custom -->
+<!-- ngIf: percent.custom --><span ng-if="percent.custom" class="ng-scope"><span class="chart-series-switch" aa-checkbox="percent.value" on-checkbox-change="clickPercent()"><i class="ui-icon tcheckbox"></i> <label>Percentage</label></span></span><!-- end ngIf: percent.custom -->
+</span></div><div class="chart-render" style="padding: 0px; position: relative;"><canvas class="flot-base" width="520" height="190" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 520px; height: 190px;"></canvas><div class="flot-text" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; font-size: smaller; color: rgb(84, 84, 84);"><div class="flot-x-axis flot-x1-axis xAxis x1Axis" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 130px; top: 170px; left: 42px; text-align: center;">Sep 27</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 130px; top: 170px; left: 154px; text-align: center;">Oct 4</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 130px; top: 170px; left: 257px; text-align: center;">Oct 11</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 130px; top: 170px; left: 364px; text-align: center;">Oct 18</div></div><div class="flot-y-axis flot-y1-axis yAxis y1Axis" style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; top: 151px; left: 15px; text-align: right;">0</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 126px; left: 8px; text-align: right;">50</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 101px; left: 1px; text-align: right;">100</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 76px; left: 1px; text-align: right;">150</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 51px; left: 1px; text-align: right;">200</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 26px; left: 1px; text-align: right;">250</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 1px; left: 1px; text-align: right;"><span class="top-y-tick-prefix"><span></span></span>300<span> </span></div></div></div><canvas class="flot-overlay" width="520" height="190" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 520px; height: 190px;"></canvas><div class="chart-hover-tip" style="left: 352.333px; top: 21.6667px; opacity: 1; display: none;">
+<table cellspacing="0">
+    <thead class="chart-tip-head">
+        <tr class="time-info">
+            <td colspan="2">
+                <i class="fa fa-globe"></i>
+                <span class="label">Oct 25-27, 2015</span>
+            </td>
+        </tr>
+    </thead>
+    <tbody class="chart-tip-body">
+        <tr>
+            <td class="legend"><i class="label-dot" style="background-color: rgb(0,168,81)"></i><span class="label">5 stars </span></td>
+            <td class="value "><b>
+                <!--
+             -->35<!--
+             -->
+            </b></td>
+            
+        </tr>
+        <tr>
+            <td class="legend"><i class="label-dot" style="background-color: rgb(145,200,72)"></i><span class="label">4 stars </span></td>
+            <td class="value "><b>
+                <!--
+             -->19<!--
+             -->
+            </b></td>
+            
+        </tr>
+        <tr>
+            <td class="legend"><i class="label-dot" style="background-color: rgb(255,196,49)"></i><span class="label">3 stars </span></td>
+            <td class="value "><b>
+                <!--
+             -->19<!--
+             -->
+            </b></td>
+            
+        </tr>
+        <tr>
+            <td class="legend"><i class="label-dot" style="background-color: rgb(239,108,0)"></i><span class="label">2 stars </span></td>
+            <td class="value "><b>
+                <!--
+             -->22<!--
+             -->
+            </b></td>
+            
+        </tr>
+        <tr>
+            <td class="legend"><i class="label-dot" style="background-color: rgb(220,65,40)"></i><span class="label">1 star </span></td>
+            <td class="value "><b>
+                <!--
+             -->15<!--
+             -->
+            </b></td>
+            
+        </tr>
+    </tbody>
+</table>
+</div></div><div class="chart-event-wrap" style="top: 180px;"><span class="chart-event-dot" data-utc="1445126400000" style="left: 391.6666666666667px">
+	<i class="ui-icon event"></i>
+		<span class="chart-event-dot-content" style="margin-left: 0px;">
+			<span class="time-info">Wed, Oct 21, 2015</span>
+			<span class="event-con">New version released: 2.15
+</span>
+		</span>
+</span>
+<span class="chart-event-dot" data-utc="1443312000000" style="left: 71.66666666666667px">
+	<i class="ui-icon event"></i>
+		<span class="chart-event-dot-content" style="margin-left: 0px;">
+			<span class="time-info">Wed, Sep 30, 2015</span>
+			<span class="event-con">New version released: 2.14.1
+</span>
+		</span>
+</span>
+</div><div class="chart-legend"><div class="legend_item "><div class="legend_color_box"><div style="background-color: #DC4128;"></div></div><div class="legend_label">1 star </div></div><div class="legend_item "><div class="legend_color_box"><div style="background-color: #EF6C00;"></div></div><div class="legend_label">2 stars </div></div><div class="legend_item "><div class="legend_color_box"><div style="background-color: #FFC431;"></div></div><div class="legend_label">3 stars </div></div><div class="legend_item "><div class="legend_color_box"><div style="background-color: #91C848;"></div></div><div class="legend_label">4 stars </div></div><div class="legend_item "><div class="legend_color_box"><div style="background-color: #00A851;"></div></div><div class="legend_label">5 stars </div></div></div></div></div>
+                </div>
+                <div class="right-chart-container">
+                    <div class="aa-search-box inline-block ng-isolate-scope" aa-search-box="search" aa-search-box-max-length="25" aa-search-box-placeholder="Review search" aa-search-box-search-by-fe="true" aa-search-box-on-search="filter.search.value = search">    <i class="fa fa-search"></i>
+    <input class="item-filter" type="text" placeholder="Review search" value="" maxlength="25">
+    <i class="ui-icon clear-button btn-clear" style="display: none;"></i>
+
+
+</div>
+                    <div class="ratings-summary">
+                        <div class="rating-total en" ng-class="lang">
+                            <div class="total-star">
+                                <div class="ng-binding">
+                                    <span aa-stars="" stars="reviewsSummary.averageRatings | number: 1"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-three-quarter.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span> 3.6
+                                </div>
+                                <div class="rating-only-date ng-binding" ng-show="reviewsSummary.totalInfo.totalReviews !== reviewsSummary.totalReviews">
+                                All ratings average:3.6
+                                </div>
+                            </div>
+                            <div>
+                                <div class="total-reviews">
+                                    <strong class="ng-binding">812</strong> Reviews
+                                </div>
+                                <div class="reviews-only-date ng-binding" ng-show="reviewsSummary.totalInfo.totalReviews !== reviewsSummary.totalReviews">
+                                    of 46,939 total reviews
+                                </div>
+                            </div>
+                        </div>
+                        <table class="rating-breakdown" cellspacing="0" cellpadding="0">
+                            <tbody><!-- ngRepeat: item in reviewsSummary.items --><tr ng-repeat="item in reviewsSummary.items" class="ng-scope">
+                                <td class="stars ng-binding en" ng-class="lang">5 stars </td>
+                                <td class="bar">
+                                    <div class="aa-progress">
+                                        <div class="aa-progress-bar star5" style="width: 41.13300492610838%;">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="count ng-binding en" ng-class="lang">334</td>
+                            </tr><!-- end ngRepeat: item in reviewsSummary.items --><tr ng-repeat="item in reviewsSummary.items" class="ng-scope">
+                                <td class="stars ng-binding en" ng-class="lang">4 stars </td>
+                                <td class="bar">
+                                    <div class="aa-progress">
+                                        <div class="aa-progress-bar star4" style="width: 18.34975369458128%;">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="count ng-binding en" ng-class="lang">149</td>
+                            </tr><!-- end ngRepeat: item in reviewsSummary.items --><tr ng-repeat="item in reviewsSummary.items" class="ng-scope">
+                                <td class="stars ng-binding en" ng-class="lang">3 stars </td>
+                                <td class="bar">
+                                    <div class="aa-progress">
+                                        <div class="aa-progress-bar star3" style="width: 12.438423645320198%;">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="count ng-binding en" ng-class="lang">101</td>
+                            </tr><!-- end ngRepeat: item in reviewsSummary.items --><tr ng-repeat="item in reviewsSummary.items" class="ng-scope">
+                                <td class="stars ng-binding en" ng-class="lang">2 stars </td>
+                                <td class="bar">
+                                    <div class="aa-progress">
+                                        <div class="aa-progress-bar star2" style="width: 11.330049261083744%;">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="count ng-binding en" ng-class="lang">92</td>
+                            </tr><!-- end ngRepeat: item in reviewsSummary.items --><tr ng-repeat="item in reviewsSummary.items" class="ng-scope">
+                                <td class="stars ng-binding en" ng-class="lang">1 star </td>
+                                <td class="bar">
+                                    <div class="aa-progress">
+                                        <div class="aa-progress-bar star1" style="width: 16.748768472906406%;">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="count ng-binding en" ng-class="lang">136</td>
+                            </tr><!-- end ngRepeat: item in reviewsSummary.items -->
+                        </tbody></table>
+                    </div>
+                </div>
+                <div class="clearfix">
+                </div>
+            </div>
+        </div>
+        <div ng-controller="AppReviewsTableCtrl" class="ng-scope">
+            <div class="download-csv">
+                <a class="btn btn-mini aa-export-csv-btn ng-hide" ng-href="/apps/ios/app/462638897/reviews/csv/?country=US&amp;date=2015-09-27~2015-10-27&amp;orderby=&amp;desc=t&amp;page=1&amp;limit=10" ng-show="canDownloadCSV" href="/apps/ios/app/462638897/reviews/csv/?country=US&amp;date=2015-09-27~2015-10-27&amp;orderby=&amp;desc=t&amp;page=1&amp;limit=10">
+                    <i class="fa fa-download"></i><span>Download CSV</span>
+                </a>
+            </div>
+            <div class="table-container">
+                <div aa-loading="status === 'loading'" class="ng-isolate-scope"><!-- ngIf: loading() --></div>
+                <div ng-show="status === 'fail'" class="ng-hide">
+                    Failed to load reviews data
+                </div>
+                <div ng-show="status !== 'loading' &amp;&amp; status != 'fail'" class="">
+                    <div app-reviews-table="" options="table.options" data="table.data" highlight-text="filter.search.value"><div ng-grid="gridOptions" class="data-table ng-scope ngGrid ng1446183149681" style="height: 1127px;"><div class="ngTopPanel ng-scope" ng-class="{'ui-widget-header':jqueryUITheme, 'ui-corner-top': jqueryUITheme}" ng-style="topPanelStyle()" style="width: 819px; height: 23px;">
+    <div class="ngGroupPanel ng-hide" ng-show="showGroupPanel()" ng-style="groupPanelStyle()" style="width: 819px; height: 32px;">
+        <div class="ngGroupPanelDescription ng-binding" ng-show="configGroups.length == 0">Drag a column header here and drop it to group by that column.</div>
+        <ul ng-show="configGroups.length > 0" class="ngGroupList ng-hide">
+            <!-- ngRepeat: group in configGroups -->
+        </ul>
+    </div>
+    <div class="ngHeaderContainer" ng-style="headerStyle()" style="width: 819px; height: 23px;">
+        <div ng-header-row="" class="ngHeaderScroller" ng-style="headerScrollerStyle()" style="height: 23px;"><div class="aa-table-top ng-scope" style="position:relative">
+      <div class="aa-table-header-row" ng-style="{ height: headerSingleRowHeight }" style="height: 23px;">
+          <!-- ngRepeat: col in renderedColumns --><div ng-style="{ height: col.headerSingleRowHeight }" ng-repeat="col in renderedColumns" class="ngHeaderCell col0 colt0">
+              <div class="ngVerticalBar ngVerticalBarVisible" ng-class="{ ngVerticalBarVisible: !$last }">&nbsp;</div>
+              <div ng-header-cell=""><div class="ngHeaderSortColumn" ng-style="{'cursor': col.cursor}" ng-class="{ 'ngSorted': !col.noSortVisible() }" draggable="true" style="cursor: pointer;">
+    <div ng-click="col.sort($event)" ng-class="{'sortable': col.sortable, 'sorted': col.sortDirection}" class="ngHeaderText colt0 col-rating sortable" ng-style="{height: headerTextRowHeight}" style="height: 25px;">
+      <p ng-class="{'has-sub-title': col.colDef.subTitle}" class="title-row">
+        <!-- ngIf: col.colDef.tooltip -->
+        <!-- ngIf: !col.colDef.tooltip --><span class="title ng-scope ng-binding" ng-if="!col.colDef.tooltip">Rating</span><!-- end ngIf: !col.colDef.tooltip -->
+      </p>
+      <!-- ngIf: col.colDef.subTitle -->
+    </div>
+    <div ng-class="{ ngPinnedIcon: col.pinned, ngUnPinnedIcon: !col.pinned }" ng-click="togglePin(col)" ng-show="col.pinnable" class="ng-hide ngUnPinnedIcon"></div>
+  </div>
+  <div ng-show="col.resizable" class="ngHeaderGrip ng-scope ng-hide" ng-click="col.gripClick($event)" ng-mousedown="col.gripOnMouseDown($event)"></div>
+  <div class="sort-btn ng-scope" ng-show="col.sortable">
+    <div class="ngSortButtonDown" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonDown()}"></div>
+    <div class="ngSortButtonUp" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonUp()}"></div>
+    <div class="ngSortPriority ng-binding"></div>
+  </div></div>
+          </div><!-- end ngRepeat: col in renderedColumns --><div ng-style="{ height: col.headerSingleRowHeight }" ng-repeat="col in renderedColumns" class="ngHeaderCell col1 colt1">
+              <div class="ngVerticalBar ngVerticalBarVisible" ng-class="{ ngVerticalBarVisible: !$last }">&nbsp;</div>
+              <div ng-header-cell=""><div class="ngHeaderSortColumn" ng-style="{'cursor': col.cursor}" ng-class="{ 'ngSorted': !col.noSortVisible() }" draggable="true" style="cursor: default;">
+    <div ng-click="col.sort($event)" ng-class="{'sortable': col.sortable, 'sorted': col.sortDirection}" class="ngHeaderText colt1 col-" ng-style="{height: headerTextRowHeight}" style="height: 25px;">
+      <p ng-class="{'has-sub-title': col.colDef.subTitle}" class="title-row">
+        <!-- ngIf: col.colDef.tooltip -->
+        <!-- ngIf: !col.colDef.tooltip --><span class="title ng-scope ng-binding" ng-if="!col.colDef.tooltip">Reviews</span><!-- end ngIf: !col.colDef.tooltip -->
+      </p>
+      <!-- ngIf: col.colDef.subTitle -->
+    </div>
+    <div ng-class="{ ngPinnedIcon: col.pinned, ngUnPinnedIcon: !col.pinned }" ng-click="togglePin(col)" ng-show="col.pinnable" class="ng-hide ngUnPinnedIcon"></div>
+  </div>
+  <div ng-show="col.resizable" class="ngHeaderGrip ng-scope ng-hide" ng-click="col.gripClick($event)" ng-mousedown="col.gripOnMouseDown($event)"></div>
+  <div class="sort-btn ng-scope ng-hide" ng-show="col.sortable">
+    <div class="ngSortButtonDown" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonDown()}"></div>
+    <div class="ngSortButtonUp" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonUp()}"></div>
+    <div class="ngSortPriority ng-binding"></div>
+  </div></div>
+          </div><!-- end ngRepeat: col in renderedColumns --><div ng-style="{ height: col.headerSingleRowHeight }" ng-repeat="col in renderedColumns" class="ngHeaderCell col2 colt2">
+              <div class="ngVerticalBar ngVerticalBarVisible" ng-class="{ ngVerticalBarVisible: !$last }">&nbsp;</div>
+              <div ng-header-cell=""><div class="ngHeaderSortColumn" ng-style="{'cursor': col.cursor}" ng-class="{ 'ngSorted': !col.noSortVisible() }" draggable="true" style="cursor: pointer;">
+    <div ng-click="col.sort($event)" ng-class="{'sortable': col.sortable, 'sorted': col.sortDirection}" class="ngHeaderText colt2 col-date sortable" ng-style="{height: headerTextRowHeight}" style="height: 25px;">
+      <p ng-class="{'has-sub-title': col.colDef.subTitle}" class="title-row">
+        <!-- ngIf: col.colDef.tooltip -->
+        <!-- ngIf: !col.colDef.tooltip --><span class="title ng-scope ng-binding" ng-if="!col.colDef.tooltip">Date</span><!-- end ngIf: !col.colDef.tooltip -->
+      </p>
+      <!-- ngIf: col.colDef.subTitle -->
+    </div>
+    <div ng-class="{ ngPinnedIcon: col.pinned, ngUnPinnedIcon: !col.pinned }" ng-click="togglePin(col)" ng-show="col.pinnable" class="ng-hide ngUnPinnedIcon"></div>
+  </div>
+  <div ng-show="col.resizable" class="ngHeaderGrip ng-scope ng-hide" ng-click="col.gripClick($event)" ng-mousedown="col.gripOnMouseDown($event)"></div>
+  <div class="sort-btn ng-scope" ng-show="col.sortable">
+    <div class="ngSortButtonDown" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonDown()}"></div>
+    <div class="ngSortButtonUp" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonUp()}"></div>
+    <div class="ngSortPriority ng-binding"></div>
+  </div></div>
+          </div><!-- end ngRepeat: col in renderedColumns --><div ng-style="{ height: col.headerSingleRowHeight }" ng-repeat="col in renderedColumns" class="ngHeaderCell col3 colt3">
+              <div class="ngVerticalBar ngVerticalBarVisible" ng-class="{ ngVerticalBarVisible: !$last }">&nbsp;</div>
+              <div ng-header-cell=""><div class="ngHeaderSortColumn" ng-style="{'cursor': col.cursor}" ng-class="{ 'ngSorted': !col.noSortVisible() }" draggable="true" style="cursor: pointer;">
+    <div ng-click="col.sort($event)" ng-class="{'sortable': col.sortable, 'sorted': col.sortDirection}" class="ngHeaderText colt3 col-country sortable" ng-style="{height: headerTextRowHeight}" style="height: 25px;">
+      <p ng-class="{'has-sub-title': col.colDef.subTitle}" class="title-row">
+        <!-- ngIf: col.colDef.tooltip -->
+        <!-- ngIf: !col.colDef.tooltip --><span class="title ng-scope ng-binding" ng-if="!col.colDef.tooltip">Country</span><!-- end ngIf: !col.colDef.tooltip -->
+      </p>
+      <!-- ngIf: col.colDef.subTitle -->
+    </div>
+    <div ng-class="{ ngPinnedIcon: col.pinned, ngUnPinnedIcon: !col.pinned }" ng-click="togglePin(col)" ng-show="col.pinnable" class="ng-hide ngUnPinnedIcon"></div>
+  </div>
+  <div ng-show="col.resizable" class="ngHeaderGrip ng-scope ng-hide" ng-click="col.gripClick($event)" ng-mousedown="col.gripOnMouseDown($event)"></div>
+  <div class="sort-btn ng-scope" ng-show="col.sortable">
+    <div class="ngSortButtonDown" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonDown()}"></div>
+    <div class="ngSortButtonUp" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonUp()}"></div>
+    <div class="ngSortPriority ng-binding"></div>
+  </div></div>
+          </div><!-- end ngRepeat: col in renderedColumns --><div ng-style="{ height: col.headerSingleRowHeight }" ng-repeat="col in renderedColumns" class="ngHeaderCell col4 colt4">
+              <div class="ngVerticalBar" ng-class="{ ngVerticalBarVisible: !$last }">&nbsp;</div>
+              <div ng-header-cell=""><div class="ngHeaderSortColumn" ng-style="{'cursor': col.cursor}" ng-class="{ 'ngSorted': !col.noSortVisible() }" draggable="true" style="cursor: pointer;">
+    <div ng-click="col.sort($event)" ng-class="{'sortable': col.sortable, 'sorted': col.sortDirection}" class="ngHeaderText colt4 col-version sortable" ng-style="{height: headerTextRowHeight}" style="height: 25px;">
+      <p ng-class="{'has-sub-title': col.colDef.subTitle}" class="title-row">
+        <!-- ngIf: col.colDef.tooltip -->
+        <!-- ngIf: !col.colDef.tooltip --><span class="title ng-scope ng-binding" ng-if="!col.colDef.tooltip">Version</span><!-- end ngIf: !col.colDef.tooltip -->
+      </p>
+      <!-- ngIf: col.colDef.subTitle -->
+    </div>
+    <div ng-class="{ ngPinnedIcon: col.pinned, ngUnPinnedIcon: !col.pinned }" ng-click="togglePin(col)" ng-show="col.pinnable" class="ng-hide ngUnPinnedIcon"></div>
+  </div>
+  <div ng-show="col.resizable" class="ngHeaderGrip ng-scope ng-hide" ng-click="col.gripClick($event)" ng-mousedown="col.gripOnMouseDown($event)"></div>
+  <div class="sort-btn ng-scope" ng-show="col.sortable">
+    <div class="ngSortButtonDown" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonDown()}"></div>
+    <div class="ngSortButtonUp" ng-click="col.sort($event)" ng-class="{highlight: col.showSortButtonUp()}"></div>
+    <div class="ngSortPriority ng-binding"></div>
+  </div></div>
+          </div><!-- end ngRepeat: col in renderedColumns -->
+      </div>
+  </div></div>
+    </div>
+    <div ng-grid-menu=""><div ng-show="showColumnMenu || showFilter" class="ngHeaderButton ng-scope ng-hide" ng-click="toggleShowMenu()">
+    <div class="ngHeaderButtonArrow"></div>
+</div>
+<div ng-show="showMenu" class="ngColMenu ng-scope ng-hide">
+    <div ng-show="showFilter" class="ng-hide">
+        <input placeholder="Search..." type="text" ng-model="filterText" class="ng-pristine ng-valid">
+    </div>
+    <div ng-show="showColumnMenu" class="ng-hide">
+        <span class="ngMenuText ng-binding">Choose Columns:</span>
+        <ul class="ngColList">
+            <!-- ngRepeat: col in columns | ngColumns --><li class="ngColListItem ng-scope" ng-repeat="col in columns | ngColumns">
+                <label class="ng-binding"><input ng-disabled="col.pinned" type="checkbox" class="ngColListCheckbox ng-pristine ng-valid" ng-model="col.visible">Rating</label>
+				<a title="Group By" ng-class="col.groupedByClass()" ng-show="col.groupable &amp;&amp; col.visible" ng-click="groupBy(col)" class="ngGroupIcon"></a>
+				<span class="ngGroupingNumber ng-binding ng-hide" ng-show="col.groupIndex > 0">0</span>          
+            </li><!-- end ngRepeat: col in columns | ngColumns --><li class="ngColListItem ng-scope" ng-repeat="col in columns | ngColumns">
+                <label class="ng-binding"><input ng-disabled="col.pinned" type="checkbox" class="ngColListCheckbox ng-pristine ng-valid" ng-model="col.visible">Reviews</label>
+				<a title="Group By" ng-class="col.groupedByClass()" ng-show="col.groupable &amp;&amp; col.visible" ng-click="groupBy(col)" class="ngGroupIcon"></a>
+				<span class="ngGroupingNumber ng-binding ng-hide" ng-show="col.groupIndex > 0">0</span>          
+            </li><!-- end ngRepeat: col in columns | ngColumns --><li class="ngColListItem ng-scope" ng-repeat="col in columns | ngColumns">
+                <label class="ng-binding"><input ng-disabled="col.pinned" type="checkbox" class="ngColListCheckbox ng-pristine ng-valid" ng-model="col.visible">Date</label>
+				<a title="Group By" ng-class="col.groupedByClass()" ng-show="col.groupable &amp;&amp; col.visible" ng-click="groupBy(col)" class="ngGroupIcon"></a>
+				<span class="ngGroupingNumber ng-binding ng-hide" ng-show="col.groupIndex > 0">0</span>          
+            </li><!-- end ngRepeat: col in columns | ngColumns --><li class="ngColListItem ng-scope" ng-repeat="col in columns | ngColumns">
+                <label class="ng-binding"><input ng-disabled="col.pinned" type="checkbox" class="ngColListCheckbox ng-pristine ng-valid" ng-model="col.visible">Country</label>
+				<a title="Group By" ng-class="col.groupedByClass()" ng-show="col.groupable &amp;&amp; col.visible" ng-click="groupBy(col)" class="ngGroupIcon"></a>
+				<span class="ngGroupingNumber ng-binding ng-hide" ng-show="col.groupIndex > 0">0</span>          
+            </li><!-- end ngRepeat: col in columns | ngColumns --><li class="ngColListItem ng-scope" ng-repeat="col in columns | ngColumns">
+                <label class="ng-binding"><input ng-disabled="col.pinned" type="checkbox" class="ngColListCheckbox ng-pristine ng-valid" ng-model="col.visible">Version</label>
+				<a title="Group By" ng-class="col.groupedByClass()" ng-show="col.groupable &amp;&amp; col.visible" ng-click="groupBy(col)" class="ngGroupIcon"></a>
+				<span class="ngGroupingNumber ng-binding ng-hide" ng-show="col.groupIndex > 0">0</span>          
+            </li><!-- end ngRepeat: col in columns | ngColumns -->
+        </ul>
+    </div>
+</div></div>
+</div>
+<div class="ngViewport ng-scope" unselectable="on" ng-viewport="" ng-class="{'ui-widget-content': jqueryUITheme}" ng-style="viewportStyle()" tabindex="0" style="width: 819px; height: 1047px;">
+    <div class="ngCanvas" ng-style="canvasStyle()" style="height: 1046px;">
+        <!-- ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow even" style="top: 0px; height: 171px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 171px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 171px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 171px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 171px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Not Logging Sleep Correctly, Voice Cues Need Fixed</strong>
+            <span>by <strong class="ng-binding">ueber_ales</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">The latest version does a poor job of determining when I am asleep. The previous version was usually spot-on. This one misses about two hours consistently. 
+The voice cues played during an activity sound like a drunk woman trying to slur her way through the announcement. There used to be options to alter the voice, but now they're gone.</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 171px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 171px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 171px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 171px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 171px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 171px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow odd" style="top: 171px; height: 228px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 228px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 228px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 228px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 228px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">New User old Jawbone customer.</strong>
+            <span>by <strong class="ng-binding">Macgizzard</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">So I gave UP on jawbone.  Had 2 of 4 jawbone UP24 die within the first 6 months.  Got my UP2 replacement and it dies within 6 months.  Adios jawbone.  I'm hoping to get some mileage out of the Fitbit chargeHR and I only hope that Fitbit actually builds its band for people who do thinks that require some durability on the device like SWEAT and Shake and bounce.  You know those exercise things that aren't yoga.  
+I will say that Jawbone has sharper app with more pop but I spend GOOD MONEY for something that works and last for what it's sold as.</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 228px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 228px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 228px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 228px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 228px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 228px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow even" style="top: 399px; height: 76px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Robust app when using ChargeHR</strong>
+            <span>by <strong class="ng-binding">n2ratfishin</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">Used the app with standard Fitbit and it didn't give near the info it does with the HR.  Seems to interface well.</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 76px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow odd" style="top: 475px; height: 95px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 95px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 95px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 95px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 95px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Love my Fitbit and the app so far</strong>
+            <span>by <strong class="ng-binding">Judiirich</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">I've only had this two days but so far no issues. I love having it sync with my phone and knowing how I sleep. I also really like the fact that it seems to have nearly every food I eat.</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 95px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 95px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 95px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 95px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 95px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 95px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow even" style="top: 570px; height: 76px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Great app!</strong>
+            <span>by <strong class="ng-binding">Espy3456</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">Love it so far! Works much better than the vivofit and garmin app</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 76px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow odd" style="top: 646px; height: 57px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Mrs.</strong>
+            <span>by <strong class="ng-binding">Proud to be fit</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">Love it - easy to use,</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 57px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow even" style="top: 703px; height: 57px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Love it!</strong>
+            <span>by <strong class="ng-binding">Smiley.47</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">Makes me get moving!</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 57px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 57px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 57px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow odd" style="top: 760px; height: 76px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Great workout companion</strong>
+            <span>by <strong class="ng-binding">funric09</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">I think this is the nicest thing since sliced bread. It has everything you could think of. Thanks fit bit</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 76px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow even" style="top: 836px; height: 133px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 133px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 133px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"><img src="/media/pictures/star-blank.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 133px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 133px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Used to love this app...not anymore!</strong>
+            <span>by <strong class="ng-binding">Lovemymeanies</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">This used to be a great app. Worked the first time, every time. Not anymore. I'm lucky if it works by the tenth try. It takes over 15 minutes just to get it to sync my data. Several times I've actually had to delete it and reinstall just to see my information. I'm almost done with Fitbit!</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 133px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 133px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 133px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 133px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 133px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 133px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows --><div ng-style="rowStyle(row)" ng-repeat="row in renderedRows" ng-click="row.toggleSelected($event)" ng-class="row.alternatingRowClass()" ng-row="" class="ng-scope ngRow odd" style="top: 969px; height: 76px;"><!-- ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col0 colt0" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner ng-scope">
+        <span aa-stars="" stars="row.getProperty(col.field)"><nobr><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"><img src="/media/pictures/star-whole.png" alt="*"></nobr></span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col1 colt1" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-review ng-scope">
+        <div>
+            <strong aa-bind-html="row.getProperty('title') | aaHighlight:searchKeywords" class="ng-binding">Totally awesome app!!</strong>
+            <span>by <strong class="ng-binding">Siestakeysgirl</strong></span>
+        </div>
+        <div class="review-content ng-binding" aa-bind-html="row.getProperty('content') | aaHighlight:searchKeywords">Never knew how much I walked till I started using this app! Love the weekly report too!!!</div>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col2 colt2" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt2 col-date"><span ng-cell-text="" class="ng-binding">Oct 27, 2015</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col3 colt3" style="height: 76px;">
+    <div class="ngVerticalBar ngVerticalBarVisible" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner cell-country ng-scope">
+        <span title="United States" class="ng-binding">
+            <img ng-src="/media/pictures/flags/gif/us.gif" src="/media/pictures/flags/gif/us.gif">
+            US
+        </span>
+    </div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --><div ng-repeat="col in renderedColumns" ng-class="{'sorted': col.sortDirection}" class="ngCell col4 colt4" style="height: 76px;">
+    <div class="ngVerticalBar" ng-style="{height: rowHeight}" ng-class="{ ngVerticalBarVisible: !$last }" style="height: 76px;">&nbsp;</div>
+    <div ng-cell=""><div class="ngCellText cell-inner colt4 col-version"><span ng-cell-text="" class="ng-binding">2.15</span></div></div>
+  </div><!-- end ngRepeat: col in renderedColumns --></div><!-- end ngRepeat: row in renderedRows -->
+    </div>
+</div>
+<div ng-grid-footer="" class="ng-scope"><div ng-show="showFooter" class="ngFooterPanel ng-scope" ng-class="{'ui-widget-content': jqueryUITheme, 'ui-corner-bottom': jqueryUITheme}" ng-style="footerStyle()" style="width: 819px; height: 55px;">
+    <div class="ngPagerContainer" ng-show="enablePaging" ng-class="{'ngNoMultiSelect': !multiSelect}">
+      <div class="ngRowCountPicker">
+        <span class="ngLabel">Show rows:</span>
+        <select ng-model="pagingOptions.pageSize" class="ng-pristine ng-valid">
+          <!-- ngRepeat: size in pagingOptions.pageSizes --><option ng-repeat="size in pagingOptions.pageSizes" class="ng-scope ng-binding" value="5">5</option><!-- end ngRepeat: size in pagingOptions.pageSizes --><option ng-repeat="size in pagingOptions.pageSizes" class="ng-scope ng-binding" value="10">10</option><!-- end ngRepeat: size in pagingOptions.pageSizes --><option ng-repeat="size in pagingOptions.pageSizes" class="ng-scope ng-binding" value="50">50</option><!-- end ngRepeat: size in pagingOptions.pageSizes --><option ng-repeat="size in pagingOptions.pageSizes" class="ng-scope ng-binding" value="200">200</option><!-- end ngRepeat: size in pagingOptions.pageSizes -->
+        </select>
+      </div>
+      <div class="ngPagerControl">
+        <button type="button" class="ngPagerButton" ng-click="pageToFirst()" ng-disabled="cantPageBackward()" title="First Page" disabled="disabled"><div class="ngPagerFirstTriangle icon"><div class="ngPagerFirstBar"></div></div></button>
+        <button type="button" class="ngPagerButton" ng-click="pageBackward()" ng-disabled="cantPageBackward()" title="Previous Page" disabled="disabled"><div class="ngPagerFirstTriangle ngPagerPrevTriangle icon"></div></button>
+        <input class="ngPagerCurrent ng-pristine ng-valid ng-valid-number ng-valid-min" min="1" max="82" type="number" ng-keyup="($event.keyCode === 13) &amp;&amp; (pagingOptions.currentPage = customInfo.currentPage)" ng-model="customInfo.currentPage">
+        <span class="ngGridMaxPagesNumber ng-binding" ng-show="maxPages() > 0">/ 82</span>
+        <button type="button" class="ngPagerButton" ng-click="pageForward()" ng-disabled="cantPageForward()" title="Next Page"><div class="ngPagerLastTriangle ngPagerNextTriangle icon"></div></button>
+        <button type="button" class="ngPagerButton" ng-click="pageToLast()" ng-disabled="cantPageToLast()" title="Last Page"><div class="ngPagerLastTriangle icon"><div class="ngPagerLastBar"></div></div></button>
+      </div>
+    </div>
+  </div></div></div></div>
+                </div>
+            </div>
+        </div>
+    </div><!-- end ngIf: !anonymous -->
+</div>
+</div>
+    </div>
+
+
+            </div>
+
+            
+<div>
+    
+    
+
+    
+
+</div>
+
+            
+        </div>
+    </div>
+    <div class="left-sidebar-bg"></div>
+</div>
+
+    </div><!-- .inner -->
+    
+
+    
+
+</div><!-- .main -->
+
+    
+
+<div class="footer-v2"><div class="inner">
+    <div class="ft-navs">
+        
+<ul class="ft-links">
+    
+        <li><a href="/">Home</a></li>
+    
+        <li><a href="/tours/market-data/">Market Data</a></li>
+    
+        <li><a href="/tours/enterprise-market-data/">Enterprise Market Data</a></li>
+    
+        <li><a href="/tours/app-analytics-platform/">App Analytics Platform</a></li>
+    
+        <li><a href="/pricing/">Pricing</a></li>
+    
+        <li><a href="/about/">About</a></li>
+    
+        <li><a href="/about/leadership/">Leadership</a></li>
+    
+        <li><a href="/about/jobs/">Jobs</a></li>
+    
+        <li><a href="/about/partnerships/">Partnerships</a></li>
+    
+        <li><a href="/about/press/">Press</a></li>
+    
+        <li><a href="/about/contact/">Contact</a></li>
+    
+        <li><a href="http://blog.appannie.com" target="_blank">Blog</a></li>
+    
+</ul><ul class="ft-links">
+    
+        <li><a href="http://support.appannie.com" target="_blank">Support</a></li>
+    
+        <li><a href="/legal/security/">Security</a></li>
+    
+        <li><a href="/legal/data-usage-policy/">Data Usage Policy</a></li>
+    
+        <li><a href="/legal/copyright/">Copyright Policy</a></li>
+    
+</ul>
+
+
+        <ul class="ft-links ft-lang-switch">
+        
+            <li data-lang="en" class="current">
+                <a>English</a>
+            </li>
+        
+            <li data-lang="jp">
+                <a>日本語</a>
+            </li>
+        
+            <li data-lang="kr">
+                <a>한국어</a>
+            </li>
+        
+            <li data-lang="cn">
+                <a>中文(简体)</a>
+            </li>
+        
+            <li data-lang="ru">
+                <a>Русский</a>
+            </li>
+        
+            <li data-lang="fr">
+                <a>Français</a>
+            </li>
+        
+            <li data-lang="de">
+                <a>Deutsch</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="ft-misc clearfix">
+        <div class="pull-left">
+            <ul class="ft-links">
+                <li>© 2015 App Annie</li>
+                <li><a href="/help/terms/">Terms of Service</a></li>
+                <li><a href="/help/privacy/">Privacy Policy</a></li>
+                <li id="edd8bedb-dfb9-45e4-9bc6-a547890d2b4d">
+                    <a href="//privacy.truste.com/privacy-seal/App-Annie/validation?rid=d5ca94fe-face-4cbc-97c9-5cad37668d4d" title="TRUSTe European Safe Harbor certification" target="_blank">
+                        <img style="border: none; vertical-align: middle;" src="//privacy-policy.truste.com/privacy-seal/App-Annie/seal?rid=d5ca94fe-face-4cbc-97c9-5cad37668d4d" alt="TRUSTe European Safe Harbor certification" height="26">
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="pull-right">
+            <div class="ft-socials">
+                <a href="http://www.linkedin.com/company/app-annie" target="_blank"><i class="sprite-aa-linkedin"></i></a>
+                <a href="http://www.facebook.com/AppAnnie" target="_blank"><i class="sprite-aa-facebook"></i></a>
+                <a href="http://www.twitter.com/appannie/" target="_blank"><i class="sprite-aa-twitter"></i></a>
+                <a href="http://google.com/+appannie" target="_blank"><i class="sprite-aa-gplus"></i></a>
+                <a href="http://www.slideshare.net/AppAnnie" target="_blank"><i class="sprite-aa-slideshare"></i></a>
+                <a href="http://www.youtube.com/appannietv" target="_blank"><i class="sprite-aa-youtube"></i></a>
+                <a href="http://e.weibo.com/appannie" target="_blank"><i class="sprite-aa-weibo"></i></a>
+                <a href="http://blog.appannie.com/feed/" target="_blank"><i class="sprite-aa-rss"></i></a>
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+
+<div id="overlay" style="display: none;"></div>
+
+<script>
+aaTrack=function(){var e={},f=[],k=0,h=function(){if(arguments[0]){var a=arguments[0],g=[].slice.call(arguments,1);500>k?(f.push([a,g]),k++):(f.shift(),f.push([a,g]));if(e[a])for(var a=e[a],b=a.length,c=0;c<b;c++)a[c].apply(null,g)}};h.register=function(a,g){a:if("object"==typeof a)for(var b in a){var c=a[b];if(e[b])for(var d=e[b],k=d.length,l=0;l<k;l++){if(d[l]==c)break a}else e[b]=[];e[b].push(c)}if(g)for(var h in a)for(b=a[h],c=f.length,d=0;d<c;d++)f[d][0]==h&&b.apply(null,f[d][1])};return h}();
+</script>
+<script type="text/javascript" data-tk="pre_install">
+  var _kmq = _kmq || [];
+  var _mkto = _mkto || [];
+
+  aaTrack('set', {
+      'env': 'production',
+      'pageType': 'product'
+  });
+
+  (function() {
+    var _tracker = [];
+    tracker = function(item) { _tracker.push(item); }; tracker.pool = _tracker;
+  })();
+</script>
+
+
+    <!-- Google Tag Manager -->
+<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-D44H" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<script>
+!function(w,d,l,i){function go(){!function(w,d,s,l,i){w[l]=w[l]||[],w[l].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl="dataLayer"!=l?"&l="+l:"";j.async=!0,j.src="//www.googletagmanager.com/gtm.js?id="+i+dl,f.parentNode.insertBefore(j,f)}(window,document,"script",l,i)}l="dataLayer_"+i.replace("GTM-",""),lo=w[l]||(w[l]=[]),aaTrack.register({set:function(obj){lo.push(obj)}},!0),w.addEventListener?w.addEventListener("load",go,!1):w.attachEvent?w.attachEvent("onload",go):setTimeout(go,100)}(window,document,"","GTM-D44H");
+</script>
+
+    
+    
+
+<script type="text/javascript" data-tk="track_on_every_page" data-tk-com="gp">
+    aaTrack('set', {
+        'Interface Language': 'en',
+        'Page Type': 'Web Prod'
+    });
+
+    
+        aaTrack('set', {
+            'eid': '3293116923ab25d885840bcf8ec3fc6f',
+            'uid': '387408'
+        });
+    
+
+    
+        try {
+            tracker(['identify', 387408, {
+                email: 'shirley7483@gmail.com',
+                $mktoHash: '04afcf078a9c0a7bdb65d60edaa57a7544e249eb'
+            }]);
+        } catch (ex) {
+        }
+        
+            aaTrack('event', 'Login', 'Login', '387408');
+            
+            try {
+                tracker(['track', 'Login']);
+            } catch (ex) {
+            }
+        
+    
+    // set all logs to ga
+    
+    try {
+        tracker(['page']);
+    } catch (ex) {
+    }
+
+    
+</script>
+
+
+</div>
+
+<script>
+/* quick $ step 2/3 */
+window.$ = window.jQuery = undefined;
+</script>
+<script src="https://static-s.aa-cdn.net/media/javascript/_lang/en/django/all.v-004161-93d2cf.js"></script>
+
+
+    
+        <!--[if lt IE 9]>
+        <script type="text/javascript" src="https://static-s.aa-cdn.net/media/javascript/lib/browser-support/excanvas.canvas.text.js"></script>
+        <![endif]-->
+        <script src="https://static-s.aa-cdn.net/media/javascript/c/prod.min.v-03481226.js"></script>
+        
+    
+
+
+
+<script>
+/* quick $ step 3/3 */
+(function(fns, $) {
+  if (!fns || fns.length < 1) { return; }
+  var i = 0, l = fns.length;
+  for (; i < l; ++i) {
+    $(fns[i]);
+  }
+  fns.length = 0;
+})(__aa_fns, jQuery);
+
+
+</script>
+
+<script>/* JIRA:XP-793 */
+(function(a,e,n,r){try{if(!a||!e)return;n=e.host;if(n.match(/localhost|\.appannie\.(dev|com)/))return;r=n.replace(/www\./,"blog.");if(n===r)return;a('a[href*="blog.appannie.com"]').each(function(e,n){var o=a(n).attr("href").replace(/blog\.appannie\.com($|[?\/])/,r+"$1");a(n).attr("href",o)})}catch(o){}})(window.jQuery,window.location);
+</script>
+
+
+    
+    <script>
+        var pageVal = $.extend(pageVal || {}, {
+        vertical: 'apps',
+        market: 'ios',
+        filters: ["version", "country", "rating", "date"],
+        page: 'Reviews',
+        canDownloadCSV: false,
+        
+        filterSettings: {
+            
+            'version': {"context": [["", "All Versions"], ["2.15", "2.15"], ["2.14.1", "2.14.1"], ["2.14", "2.14"], ["2.13.2", "2.13.2"], ["2.13", "2.13"], ["2.12", "2.12"], ["2.11.1", "2.11.1"], ["2.11", "2.11"], ["2.10", "2.10"], ["2.9.1", "2.9.1"], ["2.9", "2.9"], ["2.8.1", "2.8.1"], ["2.8", "2.8"], ["2.7.1", "2.7.1"], ["2.7", "2.7"], ["2.6.3", "2.6.3"], ["2.6.2", "2.6.2"], ["2.6.1", "2.6.1"], ["2.6", "2.6"], ["2.5.2", "2.5.2"], ["2.5.1", "2.5.1"], ["2.5", "2.5"], ["2.4", "2.4"], ["2.3.4", "2.3.4"], ["2.3.3", "2.3.3"], ["2.3.2", "2.3.2"], ["2.3.1", "2.3.1"], ["2.3", "2.3"], ["2.2.3", "2.2.3"], ["2.2.2", "2.2.2"], ["2.2.1", "2.2.1"], ["2.2", "2.2"], ["2.1.2", "2.1.2"], ["2.1.1", "2.1.1"], ["2.1", "2.1"], ["2.0.2", "2.0.2"], ["2.0.1", "2.0.1"], ["2.0", "2.0"], ["1.8", "1.8"], ["1.7.1", "1.7.1"], ["1.7", "1.7"], ["1.6.2", "1.6.2"], ["1.6.1", "1.6.1"], ["1.6", "1.6"], ["1.5.5", "1.5.5"], ["1.5.4", "1.5.4"], ["1.5.3", "1.5.3"], ["1.5.2", "1.5.2"], ["1.5.1", "1.5.1"], ["1.5", "1.5"], ["1.4.3", "1.4.3"], ["1.4.2", "1.4.2"], ["1.4.1", "1.4.1"], ["1.3", "1.3"], ["1.2.3", "1.2.3"], ["1.2.2", "1.2.2"], ["1.2.1", "1.2.1"], ["1.2", "1.2"], ["1.1.1", "1.1.1"], ["1.1", "1.1"], ["1.0.3", "1.0.3"], ["1.0.2", "1.0.2"], ["1.0.1", "1.0.1"], ["0", "0"], ["Unknown", "Unknown"], ["1", "1"]], "defaults": ""},
+            
+            
+            'country': {"context": {"items": [[null, "All Countries", [["", "All Countries"], ["AR", "Argentina"], ["AU", "Australia"], ["AT", "Austria"], ["BH", "Bahrain"], ["BY", "Belarus"], ["BE", "Belgium"], ["BR", "Brazil"], ["BG", "Bulgaria"], ["CA", "Canada"], ["CL", "Chile"], ["CN", "China"], ["CO", "Colombia"], ["CR", "Costa Rica"], ["HR", "Croatia"], ["CY", "Cyprus"], ["CZ", "Czech Republic"], ["DK", "Denmark"], ["DO", "Dominican Republic"], ["EG", "Egypt"], ["SV", "El Salvador"], ["EE", "Estonia"], ["FI", "Finland"], ["FR", "France"], ["DE", "Germany"], ["GR", "Greece"], ["GT", "Guatemala"], ["HN", "Honduras"], ["HK", "Hong Kong"], ["HU", "Hungary"], ["IS", "Iceland"], ["IN", "India"], ["ID", "Indonesia"], ["IE", "Ireland"], ["IL", "Israel"], ["IT", "Italy"], ["JP", "Japan"], ["KW", "Kuwait"], ["LB", "Lebanon"], ["LU", "Luxembourg"], ["MY", "Malaysia"], ["MX", "Mexico"], ["NL", "Netherlands"], ["NZ", "New Zealand"], ["NG", "Nigeria"], ["NO", "Norway"], ["OM", "Oman"], ["PK", "Pakistan"], ["PA", "Panama"], ["PE", "Peru"], ["PH", "Philippines"], ["PL", "Poland"], ["PT", "Portugal"], ["QA", "Qatar"], ["RO", "Romania"], ["RU", "Russia"], ["SA", "Saudi Arabia"], ["SG", "Singapore"], ["SK", "Slovakia"], ["SI", "Slovenia"], ["ZA", "South Africa"], ["KR", "South Korea"], ["ES", "Spain"], ["SE", "Sweden"], ["CH", "Switzerland"], ["TH", "Thailand"], ["TT", "Trinidad and Tobago"], ["TR", "Turkey"], ["UA", "Ukraine"], ["AE", "United Arab Emirates"], ["GB", "United Kingdom"], ["US", "United States"], ["UY", "Uruguay"], ["VE", "Venezuela"]]]]}, "defaults": "US"},
+            
+            
+            'rating': {"context": [["", "All Ratings"], ["GOOD", "Favorable"], ["BAD", "Critical"], [5, "5 stars "], [4, "4 stars "], [3, "3 stars "], [2, "2 stars "], [1, "1 star "]], "defaults": ""},
+            'date': {"context": {"max_date": "2015-10-29", "min_date": "2011-10-17"}, "defaults": "2015-09-27~2015-10-27"},
+            'search': {
+                'value': ''
+            }
+        }
+    });
+    </script>
+    
+
+
+<script>
+    var pageVal = pageVal || {};
+    pageVal.detailPanelOpened = true;
+    pageVal.account_id = '';
+    pageVal.app_id =  '462638897' 
+    pageVal.is_shared = true;
+    pageVal.vertical = 'apps';
+    pageVal.is_demo = false;
+
+pageVal.user_prefer_country = "US";
+pageVal.user_prefer_tzone = "PST8PDT";
+
+
+ pageVal.countries = [{"name": "Albania", "code": "AL", "slug": "albania", "tzone": "Europe/Tirane", "sid": 143575}, {"name": "Algeria", "code": "DZ", "slug": "algeria", "tzone": "Africa/Algiers", "sid": 143563}, {"name": "Angola", "code": "AO", "slug": "angola", "tzone": "Africa/Luanda", "sid": 143564}, {"name": "Anguilla", "code": "AI", "slug": "anguilla", "tzone": "America/Anguilla", "sid": 143538}, {"name": "Antigua and Barbuda", "code": "AG", "slug": "antigua-and-barbuda", "tzone": "America/Antigua", "sid": 143540}, {"name": "Argentina", "code": "AR", "slug": "argentina", "tzone": "America/Argentina/Buenos_Aires", "sid": 143505}, {"name": "Armenia", "code": "AM", "slug": "armenia", "tzone": "Asia/Yerevan", "sid": 143524}, {"name": "Australia", "code": "AU", "slug": "australia", "tzone": "Australia/Sydney", "sid": 143460}, {"name": "Austria", "code": "AT", "slug": "austria", "tzone": "Europe/Vienna", "sid": 143445}, {"name": "Azerbaijan", "code": "AZ", "slug": "azerbaijan", "tzone": "Asia/Baku", "sid": 143568}, {"name": "Bahamas", "code": "BS", "slug": "bahamas", "tzone": "America/Nassau", "sid": 143539}, {"name": "Bahrain", "code": "BH", "slug": "bahrain", "tzone": "Asia/Bahrain", "sid": 143559}, {"name": "Barbados", "code": "BB", "slug": "barbados", "tzone": "America/Barbados", "sid": 143541}, {"name": "Belarus", "code": "BY", "slug": "belarus", "tzone": "Europe/Minsk", "sid": 143565}, {"name": "Belgium", "code": "BE", "slug": "belgium", "tzone": "Europe/Brussels", "sid": 143446}, {"name": "Belize", "code": "BZ", "slug": "belize", "tzone": "America/Belize", "sid": 143555}, {"name": "Benin", "code": "BJ", "slug": "benin", "tzone": "Africa/Porto-Novo", "sid": 143576}, {"name": "Bermuda", "code": "BM", "slug": "bermuda", "tzone": "Atlantic/Bermuda", "sid": 143542}, {"name": "Bhutan", "code": "BT", "slug": "Bhutan", "tzone": "Asia/Thimphu", "sid": 143577}, {"name": "Bolivia", "code": "BO", "slug": "bolivia", "tzone": "America/La_Paz", "sid": 143556}, {"name": "Botswana", "code": "BW", "slug": "botswana", "tzone": "Africa/Gaborone", "sid": 143525}, {"name": "Brazil", "code": "BR", "slug": "brazil", "tzone": "America/Sao_Paulo", "sid": 143503}, {"name": "British Virgin Islands", "code": "VG", "slug": "british-virgin-islands", "tzone": "America/Tortola", "sid": 143543}, {"name": "Brunei", "code": "BN", "slug": "brunei", "tzone": "Asia/Brunei", "sid": 143560}, {"name": "Bulgaria", "code": "BG", "slug": "bulgaria", "tzone": "Europe/Sofia", "sid": 143526}, {"name": "Burkina Faso", "code": "BF", "slug": "burkina-faso", "tzone": "Africa/Ouagadougou", "sid": 143578}, {"name": "Cambodia", "code": "KH", "slug": "cambodia", "tzone": "Asia/Phnom_Penh", "sid": 143579}, {"name": "Canada", "code": "CA", "slug": "canada", "tzone": "America/Toronto", "sid": 143455}, {"name": "Cape Verde", "code": "CV", "slug": "cape-verde", "tzone": "Atlantic/Cape_Verde", "sid": 143580}, {"name": "Cayman Islands", "code": "KY", "slug": "cayman-islands", "tzone": "America/Cayman", "sid": 143544}, {"name": "Chad", "code": "TD", "slug": "chad", "tzone": "Africa/Ndjamena", "sid": 143581}, {"name": "Chile", "code": "CL", "slug": "chile", "tzone": "America/Santiago", "sid": 143483}, {"name": "China", "code": "CN", "slug": "china", "tzone": "Asia/Shanghai", "sid": 143465}, {"name": "Colombia", "code": "CO", "slug": "colombia", "tzone": "America/Bogota", "sid": 143501}, {"name": "Congo", "code": "CG", "slug": "congo", "tzone": "Africa/Brazzaville", "sid": 143582}, {"name": "Costa Rica", "code": "CR", "slug": "costa-rica", "tzone": "America/Costa_Rica", "sid": 143495}, {"name": "Croatia", "code": "HR", "slug": "croatia", "tzone": "Europe/Zagreb", "sid": 143494}, {"name": "Cyprus", "code": "CY", "slug": "cyprus", "tzone": "Asia/Nicosia", "sid": 143557}, {"name": "Czech Republic", "code": "CZ", "slug": "czech-republic", "tzone": "Europe/Prague", "sid": 143489}, {"name": "Denmark", "code": "DK", "slug": "denmark", "tzone": "Europe/Copenhagen", "sid": 143458}, {"name": "Dominica", "code": "DM", "slug": "dominica", "tzone": "America/Dominica", "sid": 143545}, {"name": "Dominican Republic", "code": "DO", "slug": "dominican-republic", "tzone": "America/Santo_Domingo", "sid": 143508}, {"name": "Ecuador", "code": "EC", "slug": "ecuador", "tzone": "America/Guayaquil", "sid": 143509}, {"name": "Egypt", "code": "EG", "slug": "egypt", "tzone": "Africa/Cairo", "sid": 143516}, {"name": "El Salvador", "code": "SV", "slug": "el-salvador", "tzone": "America/El_Salvador", "sid": 143506}, {"name": "Estonia", "code": "EE", "slug": "estonia", "tzone": "Europe/Tallinn", "sid": 143518}, {"name": "Fiji", "code": "FJ", "slug": "fiji", "tzone": "Pacific/Fiji", "sid": 143583}, {"name": "Finland", "code": "FI", "slug": "finland", "tzone": "Europe/Helsinki", "sid": 143447}, {"name": "France", "code": "FR", "slug": "france", "tzone": "Europe/Paris", "sid": 143442}, {"name": "Gambia", "code": "GM", "slug": "gambia", "tzone": "Africa/Banjul", "sid": 143584}, {"name": "Germany", "code": "DE", "slug": "germany", "tzone": "Europe/Berlin", "sid": 143443}, {"name": "Ghana", "code": "GH", "slug": "ghana", "tzone": "Africa/Accra", "sid": 143573}, {"name": "Greece", "code": "GR", "slug": "greece", "tzone": "Europe/Athens", "sid": 143448}, {"name": "Grenada", "code": "GD", "slug": "grenada", "tzone": "America/Grenada", "sid": 143546}, {"name": "Guatemala", "code": "GT", "slug": "guatemala", "tzone": "America/Guatemala", "sid": 143504}, {"name": "Guinea-Bissau", "code": "GW", "slug": "guinea-bissau", "tzone": "Africa/Bissau", "sid": 143585}, {"name": "Guyana", "code": "GY", "slug": "guyana", "tzone": "America/Guyana", "sid": 143553}, {"name": "Honduras", "code": "HN", "slug": "honduras", "tzone": "America/Tegucigalpa", "sid": 143510}, {"name": "Hong Kong", "code": "HK", "slug": "hong-kong", "tzone": "Asia/Hong_Kong", "sid": 143463}, {"name": "Hungary", "code": "HU", "slug": "hungary", "tzone": "Europe/Budapest", "sid": 143482}, {"name": "Iceland", "code": "IS", "slug": "iceland", "tzone": "Atlantic/Reykjavik", "sid": 143558}, {"name": "India", "code": "IN", "slug": "india", "tzone": "Asia/Kolkata", "sid": 143467}, {"name": "Indonesia", "code": "ID", "slug": "indonesia", "tzone": "Asia/Jakarta", "sid": 143476}, {"name": "Ireland", "code": "IE", "slug": "ireland", "tzone": "Europe/Dublin", "sid": 143449}, {"name": "Israel", "code": "IL", "slug": "israel", "tzone": "Asia/Jerusalem", "sid": 143491}, {"name": "Italy", "code": "IT", "slug": "italy", "tzone": "Europe/Rome", "sid": 143450}, {"name": "Jamaica", "code": "JM", "slug": "jamaica", "tzone": "America/Jamaica", "sid": 143511}, {"name": "Japan", "code": "JP", "slug": "japan", "tzone": "Asia/Tokyo", "sid": 143462}, {"name": "Jordan", "code": "JO", "slug": "jordan", "tzone": "Asia/Amman", "sid": 143528}, {"name": "Kazakhstan", "code": "KZ", "slug": "kazakhstan", "tzone": "Asia/Almaty", "sid": 143517}, {"name": "Kenya", "code": "KE", "slug": "kenya", "tzone": "Africa/Nairobi", "sid": 143529}, {"name": "Kuwait", "code": "KW", "slug": "kuwait", "tzone": "Asia/Kuwait", "sid": 143493}, {"name": "Kyrgyzstan", "code": "KG", "slug": "kyrgyzstan", "tzone": "Asia/Bishkek", "sid": 143586}, {"name": "Laos", "code": "LA", "slug": "laos", "tzone": "Asia/Vientiane", "sid": 143587}, {"name": "Latvia", "code": "LV", "slug": "latvia", "tzone": "Europe/Riga", "sid": 143519}, {"name": "Lebanon", "code": "LB", "slug": "lebanon", "tzone": "Asia/Beirut", "sid": 143497}, {"name": "Liberia", "code": "LR", "slug": "liberia", "tzone": "Africa/Monrovia", "sid": 143588}, {"name": "Lithuania", "code": "LT", "slug": "lithuania", "tzone": "Europe/Vilnius", "sid": 143520}, {"name": "Luxembourg", "code": "LU", "slug": "luxembourg", "tzone": "Europe/Luxembourg", "sid": 143451}, {"name": "Macau", "code": "MO", "slug": "macau", "tzone": "Asia/Macau", "sid": 143515}, {"name": "Macedonia", "code": "MK", "slug": "macedonia", "tzone": "Europe/Skopje", "sid": 143530}, {"name": "Madagascar", "code": "MG", "slug": "madagascar", "tzone": "Indian/Antananarivo", "sid": 143531}, {"name": "Malawi", "code": "MW", "slug": "malawi", "tzone": "Africa/Blantyre", "sid": 143589}, {"name": "Malaysia", "code": "MY", "slug": "malaysia", "tzone": "Asia/Kuala_Lumpur", "sid": 143473}, {"name": "Mali", "code": "ML", "slug": "mali", "tzone": "Africa/Bamako", "sid": 143532}, {"name": "Malta", "code": "MT", "slug": "malta", "tzone": "Europe/Malta", "sid": 143521}, {"name": "Mauritania", "code": "MR", "slug": "mauritania", "tzone": "Africa/Nouakchott", "sid": 143590}, {"name": "Mauritius", "code": "MU", "slug": "mauritius", "tzone": "Indian/Mauritius", "sid": 143533}, {"name": "Mexico", "code": "MX", "slug": "mexico", "tzone": "America/Mexico_City", "sid": 143468}, {"name": "Micronesia", "code": "FM", "slug": "micronesia", "tzone": "Pacific/Chuuk", "sid": 143591}, {"name": "Moldova", "code": "MD", "slug": "moldova", "tzone": "Europe/Chisinau", "sid": 143523}, {"name": "Mongolia", "code": "MN", "slug": "mongolia", "tzone": "Asia/Ulaanbaatar", "sid": 143592}, {"name": "Montserrat", "code": "MS", "slug": "montserrat", "tzone": "America/Montserrat", "sid": 143547}, {"name": "Mozambique", "code": "MZ", "slug": "mozambique", "tzone": "Africa/Maputo", "sid": 143593}, {"name": "Namibia", "code": "NA", "slug": "namibia", "tzone": "Africa/Windhoek", "sid": 143594}, {"name": "Nepal", "code": "NP", "slug": "nepal", "tzone": "Asia/Kathmandu", "sid": 143484}, {"name": "Netherlands", "code": "NL", "slug": "netherlands", "tzone": "Europe/Amsterdam", "sid": 143452}, {"name": "New Zealand", "code": "NZ", "slug": "new-zealand", "tzone": "Pacific/Auckland", "sid": 143461}, {"name": "Nicaragua", "code": "NI", "slug": "nicaragua", "tzone": "America/Managua", "sid": 143512}, {"name": "Niger", "code": "NE", "slug": "niger", "tzone": "Africa/Niamey", "sid": 143534}, {"name": "Nigeria", "code": "NG", "slug": "nigeria", "tzone": "Africa/Lagos", "sid": 143561}, {"name": "Norway", "code": "NO", "slug": "norway", "tzone": "Europe/Oslo", "sid": 143457}, {"name": "Oman", "code": "OM", "slug": "oman", "tzone": "Asia/Muscat", "sid": 143562}, {"name": "Pakistan", "code": "PK", "slug": "pakistan", "tzone": "Asia/Karachi", "sid": 143477}, {"name": "Palau", "code": "PW", "slug": "palau", "tzone": "Pacific/Palau", "sid": 143595}, {"name": "Panama", "code": "PA", "slug": "panama", "tzone": "America/Panama", "sid": 143485}, {"name": "Papua New Guinea", "code": "PG", "slug": "papua-new-guinea", "tzone": "Pacific/Port_Moresby", "sid": 143597}, {"name": "Paraguay", "code": "PY", "slug": "paraguay", "tzone": "America/Asuncion", "sid": 143513}, {"name": "Peru", "code": "PE", "slug": "peru", "tzone": "America/Lima", "sid": 143507}, {"name": "Philippines", "code": "PH", "slug": "philipines", "tzone": "Asia/Manila", "sid": 143474}, {"name": "Poland", "code": "PL", "slug": "poland", "tzone": "Europe/Warsaw", "sid": 143478}, {"name": "Portugal", "code": "PT", "slug": "portugal", "tzone": "Europe/Lisbon", "sid": 143453}, {"name": "Qatar", "code": "QA", "slug": "qatar", "tzone": "Asia/Qatar", "sid": 143498}, {"name": "Romania", "code": "RO", "slug": "romania", "tzone": "Europe/Bucharest", "sid": 143487}, {"name": "Russia", "code": "RU", "slug": "russia", "tzone": "Europe/Moscow", "sid": 143469}, {"name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "code": "ST", "slug": "sao-tome-and-principe", "tzone": "Africa/Sao_Tome", "sid": 143598}, {"name": "Saudi Arabia", "code": "SA", "slug": "saudi-arabia", "tzone": "Asia/Riyadh", "sid": 143479}, {"name": "Senegal", "code": "SN", "slug": "senegal", "tzone": "Africa/Dakar", "sid": 143535}, {"name": "Seychelles", "code": "SC", "slug": "seychelles", "tzone": "Indian/Mahe", "sid": 143599}, {"name": "Sierra Leone", "code": "SL", "slug": "sierra-leone", "tzone": "Africa/Freetown", "sid": 143600}, {"name": "Singapore", "code": "SG", "slug": "singapore", "tzone": "Asia/Singapore", "sid": 143464}, {"name": "Slovakia", "code": "SK", "slug": "slovakia", "tzone": "Europe/Bratislava", "sid": 143496}, {"name": "Slovenia", "code": "SI", "slug": "slovenia", "tzone": "Europe/Ljubljana", "sid": 143499}, {"name": "Solomon Islands", "code": "SB", "slug": "solomon-islands", "tzone": "Pacific/Guadalcanal", "sid": 143601}, {"name": "South Africa", "code": "ZA", "slug": "south-africa", "tzone": "Africa/Johannesburg", "sid": 143472}, {"name": "South Korea", "code": "KR", "slug": "south-korea", "tzone": "Asia/Seoul", "sid": 143466}, {"name": "Spain", "code": "ES", "slug": "spain", "tzone": "Europe/Madrid", "sid": 143454}, {"name": "Sri Lanka", "code": "LK", "slug": "sri-lanka", "tzone": "Asia/Colombo", "sid": 143486}, {"name": "St. Kitts and Nevis", "code": "KN", "slug": "st-kitts-and-nevis", "tzone": "America/St_Kitts", "sid": 143548}, {"name": "St. Lucia", "code": "LC", "slug": "st-lucia", "tzone": "America/St_Lucia", "sid": 143549}, {"name": "Saint Vincent and The Grenadines", "code": "VC", "slug": "st-vincent-and-the-grenadines", "tzone": "America/St_Vincent", "sid": 143550}, {"name": "Suriname", "code": "SR", "slug": "suriname", "tzone": "America/Paramaribo", "sid": 143554}, {"name": "Swaziland", "code": "SZ", "slug": "swaziland", "tzone": "Africa/Mbabane", "sid": 143602}, {"name": "Sweden", "code": "SE", "slug": "sweden", "tzone": "Europe/Stockholm", "sid": 143456}, {"name": "Switzerland", "code": "CH", "slug": "switzerland", "tzone": "Europe/Zurich", "sid": 143459}, {"name": "Taiwan", "code": "TW", "slug": "taiwan", "tzone": "Asia/Taipei", "sid": 143470}, {"name": "Tajikistan", "code": "TJ", "slug": "tajikistan", "tzone": "Asia/Dushanbe", "sid": 143603}, {"name": "Tanzania", "code": "TZ", "slug": "tanzania", "tzone": "Africa/Dar_es_Salaam", "sid": 143572}, {"name": "Thailand", "code": "TH", "slug": "thailand", "tzone": "Asia/Bangkok", "sid": 143475}, {"name": "Trinidad and Tobago", "code": "TT", "slug": "trinidad-and-tobago", "tzone": "America/Port_of_Spain", "sid": 143551}, {"name": "Tunisia", "code": "TN", "slug": "tunisia", "tzone": "Africa/Tunis", "sid": 143536}, {"name": "Turkey", "code": "TR", "slug": "turkey", "tzone": "Europe/Istanbul", "sid": 143480}, {"name": "Turkmenistan", "code": "TM", "slug": "turkmenistan", "tzone": "Asia/Ashgabat", "sid": 143604}, {"name": "Turks and Caicos", "code": "TC", "slug": "turks-and-caicos", "tzone": "America/Grand_Turk", "sid": 143552}, {"name": "Uganda", "code": "UG", "slug": "uganda", "tzone": "Africa/Kampala", "sid": 143537}, {"name": "Ukraine", "code": "UA", "slug": "ukraine", "tzone": "Europe/Kiev", "sid": 143492}, {"name": "United Arab Emirates", "code": "AE", "slug": "united-arab-emirates", "tzone": "Asia/Dubai", "sid": 143481}, {"name": "United Kingdom", "code": "GB", "slug": "united-kingdom", "tzone": "Europe/London", "sid": 143444}, {"name": "United States", "code": "US", "slug": "united-states", "tzone": "America/Los_Angeles", "sid": 143441}, {"name": "Uruguay", "code": "UY", "slug": "uruguay", "tzone": "America/Montevideo", "sid": 143514}, {"name": "Uzbekistan", "code": "UZ", "slug": "uzbekistan", "tzone": "Asia/Tashkent", "sid": 143566}, {"name": "Venezuela", "code": "VE", "slug": "venezuela", "tzone": "America/Caracas", "sid": 143502}, {"name": "Vietnam", "code": "VN", "slug": "vietnam", "tzone": "Asia/Ho_Chi_Minh", "sid": 143471}, {"name": "Yemen", "code": "YE", "slug": "yemen", "tzone": "Asia/Aden", "sid": 143571}, {"name": "Zimbabwe", "code": "ZW", "slug": "zimbabwe", "tzone": "Africa/Harare", "sid": 143605}];
+
+
+
+    __ng_boot_inject_module = 'item.all';
+</script>
+<script src="https://static-s.aa-cdn.net/media/javascript/_lang/en/sea/aa.v-8a6714-93d2cf.js"></script>
+<script src="https://static-s.aa-cdn.net/media/javascript/_lang/en/sea/app.v-30487f-93d2cf.js"></script>
+<script src="https://static-s.aa-cdn.net/media/javascript/prod/aa.min.v-d116a027.js"></script>
+<script src="https://static-s.aa-cdn.net/media/javascript/prod/app.min.v-871b05f4.js"></script>
+<script> jQuery(function(){ require(["app/app"]); }); </script>
+
+<script>
+var pageVal = $.extend(pageVal || {}, {
+    'GA': {
+        'pageType': 'Asset',
+        'vertical': 'apps',
+        'pageName': 'Reviews',
+        'label': 'Asset-apps-Reviews'
+    }
+});
+</script>
+
+<script>
+    
+    $(function() { setTimeout(function() {
+    var el = document.createElement('script'); el.type = 'text/javascript'; el.async = true;
+    el.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4fe162ac05cbe453';
+    document.body.appendChild(el);
+    }, 800);
+    });
+    
+    
+var pageVal = $.extend({}, pageVal);
+
+pageVal.lang =  __lang;
+
+
+
+
+
+    
+</script>
+
+
+
+<!-- www.appannie.com, https://www.appannie.com -->
+
+
+
+
+
+<div class="aa-backtop-box"><div class="aa-backtop-box-i"><b title="Jump to Top of Page" style="opacity: 1; display: block;"><i class="fa fa-chevron-up"></i></b></div></div><div class="aa_selector" style="width: 46.5em; display: none;"><div class="quick_selection"><a data-rel="all">All Time</a><span class="sep"> - </span><a data-rel="364">Last 365 Days</a><span class="sep"> - </span><a data-rel="89">Last 90 Days</a><span class="sep"> - </span><a data-rel="29">Last 30 Days</a><span class="sep"> - </span><a data-rel="13">Last 14 Days</a><span class="sep"> - </span><a data-rel="6">Last 7 Days</a></div><div class="selection_content"><div id="aa_ui_dp_1"></div></div><div class="tipbox-direction tipbox-right-up"><em>◆</em><span>◆</span></div></div><script type="text/javascript" async="" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4fe162ac05cbe453"></script><script type="text/javascript" id="">adroll_segments="1322d511";</script><script type="text/javascript" id="">(function(a){var b=window[a];b&&void 0!==typeof aaTrack&&aaTrack.register({pageview:function(c,d){b.push({event:"analyticsVPV",vpvName:c,vpvTitle:d})},event:function(c,d,a,e){b.push({event:"analyticsEvent",eventCategory:c,eventAction:d,eventLabel:a,eventValue:e})}},!0)})("dataLayer_"+"GTM-D44H".replace("GTM-",""));</script><img src="https://www.bizographics.com/collect/?fmt=gif&amp;url=currentcustomers.exclusion.appannie.com&amp;pid=6256" width="1" height="1" border="0" alt="" style="display:none">
+<script type="text/javascript" id="">var _kmq=_kmq||[],_kmk=_kmk||"5c5209f8faaba26dba3e49f32e2cbde43d1b7e7b";function _kms(c){setTimeout(function(){var a=document,b=a.getElementsByTagName("script")[0],a=a.createElement("script");a.type="text/javascript";a.async=!0;a.src=c;b.parentNode.insertBefore(a,b)},1)}_kms("//i.kissmetrics.com/i.js");_kms("//doug1izaerwt3.cloudfront.net/"+_kmk+".1.js");</script>
+<script type="text/javascript" id="">setTimeout(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2497.js?"+Math.floor((new Date).getTime()/36E5);a.async=!0;a.type="text/javascript";b.parentNode.insertBefore(a,b)},1);</script><script type="text/javascript" id="">(function(a,b,c,d,e){a=b.createElement(c);b=b.getElementsByTagName(c)[0];a.async=1;a.id=e;a.src=("https:"==document.location.protocol?"https://":"http://")+d;b.parentNode.insertBefore(a,b)})(window,document,"script","scripts.demandbase.com/GvLtS16i.min.js","demandbase_js_lib");</script><script type="text/javascript" id="">(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","680989378664200"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);</script>
+<noscript>&lt;img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=680989378664200&amp;amp;ev=PixelInitialized"&gt;</noscript><script type="text/javascript" id="">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-2339266-6"]);_gaq.push(["_setDomainName","appannie.com"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"stats.g.doubleclick.net/dc.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script><script src="https://dc.ads.linkedin.com/collect/?time=1446183149210&amp;pid=6256&amp;url=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F%3Fcountry%3DUS%26date%3D2015-09-27~2015-10-27&amp;pageUrl=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F%3Fcountry%3DUS%26date%3D2015-09-27~2015-10-27&amp;ref=&amp;bzid=0c41cbd7-72b0-4563-b6da-30a730f57faf&amp;cksm=904578CE854EFE27&amp;fmt=js&amp;np.0.id=14&amp;np.0.time=113&amp;np.1.id=6256&amp;np.1.time=234&amp;s=1" type="text/javascript"></script><img style="display:none" alt="Demandbase pixel" id="db_pixel_ad" src="https://a.company-target.com/pixel?type=js&amp;id=1424885544&amp;page=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F%3Fcountry%3DUS%26date%3D2015-09-27~2015-10-27"><img style="display:none" alt="Demandbase pixel" id="db_pixel_rt" src="https://a.company-target.com/pixel?type=js&amp;id=1424885697&amp;page=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F%3Fcountry%3DUS%26date%3D2015-09-27~2015-10-27"><div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><iframe id="_atssh880" title="AddThis utility frame" src="https://s7.addthis.com/static/sh.ffb539525be53bf07820b48d.html#rand=0.7138893350493163&amp;iit=1446183151976&amp;tmr=load%3D1446183149334%26core%3D1446183149569%26main%3D1446183151940%26ifr%3D1446183152002&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=app%20annie%20analytics%20store%20stats%20intelligence%20rankings%20reviews%20statistics%20market%20data%20ios%20apple%20google%20android&amp;ab=-&amp;dh=www.appannie.com&amp;dr=&amp;du=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F%3Fcountry%3DUS%26date%3D2015-09-27~2015-10-27&amp;href=https%3A%2F%2Fwww.appannie.com%2Fapps%2Fios%2Fapp%2F462638897%2Freviews%2F&amp;dt=Fitbit%20-%20iOS%20Store%20App%20Store%20Reviews%20%7C%20App%20Annie&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=33&amp;prod=undefined&amp;lng=zh-TW&amp;ogt=image%2Ctitle&amp;pc=men&amp;pub=ra-4fe162ac05cbe453&amp;ssl=1&amp;sid=563300ed7e621463&amp;srpl=1&amp;srd=1&amp;srf=0.01&amp;srx=1&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=title%3DFitbit%26image%3Dhttps%253A%252F%252Fstatic-s.aa-cdn.net%252Fimg%252Fios%252F462638897%252Ff32b34f7407291bae46cd1a2f8547347&amp;csi=undefined&amp;toLoJson=uvs%3D563300eda0095ebc000%26chr%3DUTF-8%26vcl%3D3&amp;rev=v3.3.1-wp&amp;ct=1&amp;xld=1&amp;xd=1" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;"></iframe></div><img src="https://secure.adnxs.com/seg?add=1720593&amp;t=2" width="1" height="1" border="0" alt="" style="display: none;"><img src="https://imp2.ads.linkedin.com/l" width="1" height="1" border="0" alt="" style="display: none;"></body>
